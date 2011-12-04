@@ -1,0 +1,11 @@
+pom.xml
+*.jar
+/native/
+/lib/
+/classes/
+.lein-failures
+.lein-deps-sum
+*.iml
+*.ipr
+*.iws
+docs/uberdoc.html
