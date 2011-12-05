@@ -7,13 +7,13 @@ You can find the original version at [lein-nailgun](http://github.com/brandonw/l
 
 ## Works with the latest vimclojure
 
-This release is compatible with clojure 1.2 and vimclojure 2.2.0.
+This release is compatible with Clojure 1.3 and VimClojure 2.3.0.
 
 ## Installation
 
 Make sure `:dev-dependencies` in your project.clj contains the following:
 
-	[org.clojars.autre/lein-vimclojure "1.0.0"]
+	[org.clojars.autre/lein-vimclojure "1.1.0"]
 
 
 ## Running
